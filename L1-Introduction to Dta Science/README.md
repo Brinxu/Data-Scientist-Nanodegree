@@ -14,7 +14,7 @@ a loan data from Prosper. is used to study key factors that predict loan Status.
 - A Descriptive Jupyter Notebook
 -  Dataset: https://www.kaggle.com/yousuf28/prosper-loan
 
-## Results of the analysis
+## Analysis Results 
 
 Results and discussion were published on Medium: https://medium.com/@brinxu1/predict-loan-status-9784e36a5736
 
