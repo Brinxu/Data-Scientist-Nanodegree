@@ -4,9 +4,10 @@
 
 Based on the Cross-Industry Standard Process of Data Mining (CRISP-DM), 
 a loan data from Prosper. is used to study key factors that predict loan Status. Specifically, I asked the following three questions:
-How do homeownership and employment status predict Loan amount?
-How do homeownership and employment status predict borrowers’ APR?
-How does Loan Status vary by homeownership status and employment status?
+
+- How do homeownership and employment status predict Loan amount?
+- How do homeownership and employment status predict borrowers’ APR?
+- How does Loan Status vary by homeownership status and employment status?
 
 ## File Description
 
