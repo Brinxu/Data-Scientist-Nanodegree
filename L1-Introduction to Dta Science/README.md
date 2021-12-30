@@ -24,9 +24,8 @@ No additional installations beyond the Anaconda distribution of Python and Jupyt
 
 ## Analysis Results 
 
-Results and discussion were published on Medium: https://medium.com/@brinxu1/predict-loan-status-9784e36a5736
+Key results and findings were listed below. A blog was published on Medium: https://medium.com/@brinxu1/predict-loan-status-9784e36a5736
 
-Key points: 
 - For those with a home, I found that borrows' APR is the lowest for full-time employed. 
 - For those without a home, it is one of the highest for those who do not have a home.
 - Putting together, it looks like those who are full-time employed and have a home enjoy the highest loan amount as well we the lowest borrower APR.
