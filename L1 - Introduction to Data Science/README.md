@@ -11,6 +11,7 @@ Based on the Cross-Industry Standard Process of Data Mining (CRISP-DM), a loan d
 ## File Description
 
 - A Descriptive Jupyter Notebook
+- A README file
 
 ## Installation 
 
