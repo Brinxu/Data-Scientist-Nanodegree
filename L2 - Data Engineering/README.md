@@ -9,8 +9,6 @@ Udacity Workspace Documents:
 
 ![Screen Shot 2022-01-03 at 4 31 48 PM](https://user-images.githubusercontent.com/41206996/147985516-3655e96f-7d51-46d8-9948-6565f508a781.png)
 
-Notebooks run in a local machne:
-
 ML pipeline notebook
 
 ETL pipeline notebook
