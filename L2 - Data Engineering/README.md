@@ -27,4 +27,4 @@ README.md
 3. Go to http://0.0.0.0:3001/
 
 ## Acknowledgment 
-This project benefits from the help and support from Udacity mentor and instructor team. I espcially appreicate Survesh's wonderful mentor help.
+This project benefits from the help and support from Udacity mentor and instructor team. I espcially appreciate Survesh's wonderful mentor help.
