@@ -6,19 +6,7 @@ In this project, I analyze disaster data from Figure Eight to build models that 
 ## File Description
 
 Udacity Workspace Documents: 
-app
-| - template
-| |- master.html # main page of web app
-| |- go.html # classification result page of web app
-|- run.py # Flask file that runs app
-data
-|- disaster_categories.csv # data to process
-|- disaster_messages.csv # data to process
-|- process_data.py # data cleaning pipeline
-|- InsertDatabaseName.db # database to save clean data to
-models
-|- train_classifier.py # machine learning pipeline
-|- classifier.pkl # saved model
+![Screen Shot 2022-01-03 at 4 31 48 PM](https://user-images.githubusercontent.com/41206996/147985516-3655e96f-7d51-46d8-9948-6565f508a781.png)
 
 Notebooks run in a local machne:
 ML pipeline notebook
