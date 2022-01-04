@@ -26,7 +26,7 @@ For this project, I was interested in analyzing the interactions that users have
   - user-item-interactions.csv # user item interactions data
 - Recommendations_with_IBM.ipynb # Jupyter notebook
 - Recommendations_with_IBM.ipynb # html of jupyter notebook
-- top_5.p
+- top_5.p, top_10.p, top_20.p 
 - README.md
 
 Acknowledgement 
