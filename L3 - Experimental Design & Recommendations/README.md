@@ -31,4 +31,4 @@ For this project, I was interested in analyzing the interactions that users have
 
 ## Acknowledgement 
 
-This analysis is benefited from the Udacity instructor and mentor team's help and support. 
+This analysis is benefited from the Udacity instructor and mentor team's help and support.
