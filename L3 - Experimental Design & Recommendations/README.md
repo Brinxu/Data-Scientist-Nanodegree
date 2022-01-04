@@ -29,5 +29,6 @@ For this project, I was interested in analyzing the interactions that users have
 - top_5.p, top_10.p, top_20.p 
 - README.md
 
-Acknowledgement 
+## Acknowledgement 
+
 This analysis is benefited from the Udacity instructor and mentor team's help and support. 
