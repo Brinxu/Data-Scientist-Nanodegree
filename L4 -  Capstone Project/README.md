@@ -2,11 +2,11 @@
 
 ### Project Overview
 
-- In this project, I seek to understand how likely is a patient with certain attributes, to show up to his hospital appointment. 
+In this project, I seek to understand how likely is a patient with certain attributes, to show up to his hospital appointment. 
 
-- I investigate a data set of appointment records in public hospitals in Vitoria, Espirito Santo, Brazil. The data includes whether the patient showed up to the appointment, which is the main focus, as well as other attributes of the patient and the appointment. A link to the dataset can be downloaded [here](https://www.kaggle.com/joniarroba/noshowappointments)
+I investigate a data set of appointment records in public hospitals in Vitoria, Espirito Santo, Brazil. The data includes whether the patient showed up to the appointment, which is the main focus, as well as other attributes of the patient and the appointment. A link to the dataset can be downloaded [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
-- I first do clean the data and explore exploratory analysis. I then train classification models using DecisionTree, a RandomForest, a linear SVM, an SVM with a radial basis kernel, AdaBoost. Finally, I resemble and blend models to predict the target variable. By comparing models' AUC and accuracy, I identify the best model in predicting patient no-shows.
+I first do clean the data and explore exploratory analysis. I then train classification models using DecisionTree, a RandomForest, a linear SVM, an SVM with a radial basis kernel, AdaBoost. Finally, I resemble and blend models to predict the target variable. By comparing models' AUC and accuracy, I identify the best model in predicting patient no-shows.
 
 ### File Description
 
@@ -16,7 +16,7 @@ The main findings of the code can be found at the Medium Blog post available her
 
 ### Main Findings
 
-- Through this analysis, the Decision Tree method yields the highest AUC, while three models (Linear SVC, Random Forest, Blending) have the highest Accuracy. Considering both measurements, it looks like the Resembling model would stand out because of its performance relatively well in both measurements. The comparison of all models are below: 
+Through this analysis, the Decision Tree method yields the highest AUC, while three models (Linear SVC, Random Forest, Blending) have the highest Accuracy. Considering both measurements, it looks like the Resembling model would stand out because of its performance relatively well in both measurements. The comparison of all models are below: 
 
 | Classifier | AUC score | Accuracy |
 | --- | --- | --- |
