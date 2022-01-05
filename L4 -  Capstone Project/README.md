@@ -12,7 +12,7 @@ I first do clean the data and explore exploratory analysis. I then train classif
 
 There is one exploratory notebook and html file of the notebook available here to showcase my work in predicting churn. Markdown cells were used throughout to explain the process taken.
 
-The main findings of the code can be found at the Medium Blog post available here explaining the technical details of my project: https://medium.com/@brinxu1/predicting-patient-no-shows-790be6999b40
+README file
 
 ### Main Findings
 
@@ -28,6 +28,8 @@ Through this analysis, the Decision Tree method yields the highest AUC, while th
 | DT (With tuned parameters) | .60 | .73 |
 | AdaBoost | .50 | .79 |
 | Blending | .53 | .80 |
+
+My Medium Blog post is available here explaining the technical details of my project: https://medium.com/@brinxu1/predicting-patient-no-shows-790be6999b40
 
 ### Acknowledgment
 
