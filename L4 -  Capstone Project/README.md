@@ -29,7 +29,7 @@ Through this analysis, the Decision Tree method yields the highest AUC, while th
 | AdaBoost | .50 | .79 |
 | Blending | .53 | .80 |
 
-My Medium Blog post is available [here](https://medium.com/@brinxu1?p=85dd6e3b4b9b) explaining the technical details of my project.
+My Medium Blog post is available [here](https://medium.com/@brinxu1/predicting-patient-no-shows-85dd6e3b4b9b) explaining the technical details of my project.
 
 ### Acknowledgment
 
