@@ -1,6 +1,6 @@
 # Udacity-Data-Scientist-Nanodegree
 
-This repository contains my projects for Udacity's Data Scientist Nanodegree. In this project, I took classes including **software engineering**, **data engineering**, **experimental design & Recommendation**. I gained comprehensive knowledge and hands-on experience in data science. Below is a list of projects I completed in the program. You can find each project under one folder. 
+This repository contains my projects for Udacity's Data Scientist Nanodegree. In this project, I took classes including **machine learning**, **software engineering**, **data engineering**, **experimental design & Recommendation**. I gained comprehensive knowledge and hands-on experience in data science. Below is a list of projects I completed in the program. You can find each project under one folder. 
 
 ## [Project 1: Predicting loan Status](https://github.com/Brinxu/Data-Scientist-Nanodegree/tree/main/L1%20-%20Introduction%20to%20Data%20Science)
 
