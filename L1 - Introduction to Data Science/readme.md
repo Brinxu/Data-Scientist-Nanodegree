@@ -5,7 +5,7 @@ In this file, I include foudamental toolbox for data science, such as how to bui
 ### Built with
 
 - NumPy - package for scientific computing with Python
-- [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 - NLTK - Natural Language Toolkit
 - Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python
 - Seaborn - statistical data visualization
