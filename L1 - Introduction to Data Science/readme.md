@@ -1,6 +1,6 @@
 ## Introduction to Data Science
 
-In this file, I include foudamental toolbox for data science, such as how to build effective data visualizations, and how to communicate with various stakeholders.
+This file includes foudamental tools for data science, such as build effective data visualizations, and how to communicate with various stakeholders.
 
 ### Built with
 
