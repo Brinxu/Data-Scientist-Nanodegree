@@ -39,7 +39,7 @@ I pull the data from different sources(i.e., csv, json, APIs), transform the dat
 - Pipelines and Grid Search
 
 ## Data
-Related data used in codings can be found ([here](https://drive.google.com/drive/folders/16QPqSAll76gNdLGljKw6KpGO_qAMM_79?usp=sharing)). 
+Related data used in codings can be found [here](https://drive.google.com/drive/folders/16QPqSAll76gNdLGljKw6KpGO_qAMM_79?usp=sharing). 
 
 ## Project
-A project that implemented all the above techniques can be found ([here](https://github.com/Brinxu/Disaster-Response-Pipeline)). 
+A project that implemented all the above techniques can be found [here](https://github.com/Brinxu/Disaster-Response-Pipeline). 
