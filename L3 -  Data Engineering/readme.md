@@ -7,6 +7,7 @@ I. Extract data from different sources
 csv files
 json files
 APIs
+
 II. Transform data
 combining data from different sources
 data cleaning
@@ -19,7 +20,6 @@ dummy variables
 remove outliers
 scaling features
 engineering features
+
 III. Load data
 send the transformed data to a database
-
-
