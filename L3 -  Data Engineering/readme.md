@@ -1,45 +1,45 @@
+# Data Engineering
 
-ETL Pipelines
+This file includes three subfiles, ETL Pipelines, NLP Pipeline, and Machine Learning Pipelines. 
 
-In this lesson, you've learned to create ETL pipelines: you pull the data from different sources, transform the data using various techniques and load the transformed data in a data storage.
+## ETL Pipelines
+I pull the data from different sources(i.e., csv, json, APIs), transform the data using various techniques, and load the transformed data into a data storage. Some of the transforming techniques I use include: 
 
-I. Extract data from different sources
-csv files
-json files
-APIs
+- Data cleaning
+- Change data types
+- Parsing dates
+- File encodings
+- Deal with missing data
+- Duplicate data
+- Dummy variables
+- Remove outliers
+- Scaling features
+- Engineering features
 
-II. Transform data
-combining data from different sources
-data cleaning
-data types
-parsing dates
-file encodings
-missing data
-duplicate data
-dummy variables
-remove outliers
-scaling features
-engineering features
+## NLP Pipeline 
 
-III. Load data
-send the transformed data to a database
+- Text Processing
+- Cleaning
+- Normalization
+- Tokenization
+- Stop Word Removal
+- Part of Speech Tagging
+- Named Entity Recognition
+- Stemming and Lemmatization
+- Feature Extraction
+- Bag of Words
+- TF-IDF
+- Word Embeddings
+- Modeling
 
+## Machine Learning Pipelines
 
-NLP Pipeline Recap
-We covered the 3 major steps of a NLP Pipeline and the ways to approach each of these steps for your given problem.
+- Scikit-learn Pipeline
+- Scikit-learn Feature Union
+- Pipelines and Grid Search
 
-Text Processing
-Cleaning
-Normalization
-Tokenization
-Stop Word Removal
-Part of Speech Tagging
-Named Entity Recognition
-Stemming and Lemmatization
-Feature Extraction
-Bag of Words
-TF-IDF
-Word Embeddings
-Modeling
+## Data
+Related data used in codings can be found ([here](https://drive.google.com/drive/folders/16QPqSAll76gNdLGljKw6KpGO_qAMM_79?usp=sharing)). 
 
-
+## Project
+A project that implemented all the above techniques can be found ([here](https://github.com/Brinxu/Disaster-Response-Pipeline)). 
