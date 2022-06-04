@@ -23,3 +23,23 @@ engineering features
 
 III. Load data
 send the transformed data to a database
+
+
+NLP Pipeline Recap
+We covered the 3 major steps of a NLP Pipeline and the ways to approach each of these steps for your given problem.
+
+Text Processing
+Cleaning
+Normalization
+Tokenization
+Stop Word Removal
+Part of Speech Tagging
+Named Entity Recognition
+Stemming and Lemmatization
+Feature Extraction
+Bag of Words
+TF-IDF
+Word Embeddings
+Modeling
+
+
