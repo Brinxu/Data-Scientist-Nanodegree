@@ -4,7 +4,7 @@
 
 Within the experimental design file, there are three main contents:
 
-- Concepts of Experiment Design. This incudes what it means to run an experiment, and how this differs from observational studies. Topics include not only what to include in an experimental design, but also what to watch out for when designing an experiment.
+- Concepts of Experiment Design. This includes what it means to run an experiment, and how this differs from observational studies. Topics include not only what to include in an experimental design, but also what to watch out for when designing an experiment.
 
 - Statistical Considerations in Testing. This includes statistical techniques and considerations used when evaluating the data collected during an experiment. Knowledge of inferential statistics is pre-required. 
 
